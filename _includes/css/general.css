@@ -336,6 +336,21 @@ th {
 	border-bottom: #C3302A 1px solid;
 }
 
+.keynoteIndex {
+    padding-right: 1em;
+    text-align: center;
+}
+
+.keynoteIndex .body {
+    text-align: center;
+}
+
+.keynoteIndex img {
+    width: 200px;
+    margin: auto;
+}
+
+
 /* HEADER & NAVIGATION */
 h1 {
 	font-family: 'Lato', sans-serif;
