@@ -106,8 +106,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>6<sup>th</sup> International Conference on Biomedical<br>Engineering and Systems (ICBES'19)</h1>
-          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
-
+          <p class="subhead">
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
         <div class="searchbox grid">
@@ -133,8 +132,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>6<sup>th</sup> International Conference on Biomedical<br>Engineering and Systems (ICBES'19)</h1>
-          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
-
+          <p class="subhead">
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
         <div class="searchbox grid">
